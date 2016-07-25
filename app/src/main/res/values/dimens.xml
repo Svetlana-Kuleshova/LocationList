@@ -1,0 +1,4 @@
+<resources>
+    <integer name="map_padding">100</integer>
+    <item name="marker_scale" type="dimen" format="float">1.5</item>
+</resources>
